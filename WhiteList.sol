@@ -1,3 +1,8 @@
+/**This code has been written by
+* Achal Singh 
+* on 11th June, 2018
+* */
+
 pragma solidity ^0.4.24;
 
 contract WhiteList {
